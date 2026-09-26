@@ -6,6 +6,14 @@ The project combines **data analysis, SQL querying, Python-based data exploratio
 
 ---
 
+
+# 🎥 Project Video
+
+
+🔗 **[▶️ Watch Project Video](https://drive.google.com/file/d/1_Zy53rzxQTvOXPQFLjF6HbxQZU7Ce0v7/view?usp=drive_link)**
+
+---
+
 ## 🚀 Project Overview
 
 Customer support teams handle a large number of customer tickets every day. Analyzing these tickets helps organizations understand:
