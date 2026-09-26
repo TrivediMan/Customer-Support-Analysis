@@ -126,7 +126,6 @@ Example libraries used:
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
 ```
 
 ---
@@ -143,17 +142,6 @@ The SQL analysis focuses on questions such as:
 * Which teams have higher workloads?
 * How are tickets distributed across different categories?
 * What trends can be identified from ticket data?
-
-Example:
-
-```sql
-SELECT
-    team,
-    COUNT(*) AS total_tickets
-FROM tickets
-GROUP BY team
-ORDER BY total_tickets DESC;
-```
 
 ---
 
